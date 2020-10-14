@@ -1,3 +1,4 @@
+dist: focal
 arch: ppc64le
 group: dev
 
