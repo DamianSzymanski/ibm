@@ -5,3 +5,4 @@ group: dev
 script:
 - uname -a
 - dpkg -l | grep toolchain
+- ls /etc/apt/sources.list.d/
