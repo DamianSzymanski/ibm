@@ -1,0 +1,6 @@
+arch: ppc64le
+group: dev
+
+script:
+- uname -a
+- dpkg -l | grep toolchain
